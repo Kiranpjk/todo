@@ -1,7 +1,9 @@
 {
   "expo": {
     "name": "ExpoToDoApp",
-    "slug": "ExpoToDoApp",
+    "slug": "expotodoapp",
+    "scheme": "expotodoapp",
+    "owner": "unknownpjk",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,10 +22,15 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.lputodo.app",
+      "googleServicesFile": "./google-services.json"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-web-browser"
+    ]
   }
 }

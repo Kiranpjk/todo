@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1003844937796",
+    "project_id": "task-6e1b4",
+    "storage_bucket": "task-6e1b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003844937796:android:7595debf6fb1c06401f411",
+        "android_client_info": {
+          "package_name": "com.lputodo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003844937796-lh9ch0mautqu6m37a7johgne7aj0pjs3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lputodo.app",
+            "certificate_hash": "68a6b9dd5ce2a9d646aad09b6c72138331c90a1c"
+          }
+        },
+        {
+          "client_id": "1003844937796-t5k4439elbfatvagaojl0a3t953o3pac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiA61WRkf_wuQIrJujrWY3RxitNhWcwv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003844937796-t5k4439elbfatvagaojl0a3t953o3pac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
